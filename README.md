@@ -24,7 +24,7 @@ A simple ToDo List web app built with Python flask Framework.
 
 - Open a terminal and run `python3` to access python interactive shell  
   
-- run `from app import db`  
+- run `from models import db`  
   
 - run `db.create_all()`  
 
